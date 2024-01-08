@@ -1,0 +1,15 @@
+A tag <div>: Define uma divisão ou seção em um documento HTML. O elemento div é frequentemente 
+usado como um contêiner para outros elementos, o que facilita na estilização de blocos.
+
+
+Tag <id>: Serve para identificação
+
+
+Tag <fieldset>: Usado para agrupar elementos assim como o label dentro de um formulario
+
+Tag <label>: 
+
+Tag <for>: 
+
+Atributo Type:  O type é usado para especificar o tipo de conteúdo que a tag link está importando,
+ o valor do atributo deve ser um MIME type como "text/html", "text/css" e assim por diante1. 
